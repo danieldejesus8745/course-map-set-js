@@ -1,2 +1,2 @@
-# course-map-set-js
+# Course Map and Set in Javascript
 Map and Set course files
