@@ -1,0 +1,11 @@
+const saturday = new Map();
+
+saturday.set(8, 'walk the dogs');
+saturday.set(12, 'lunch');
+saturday.set(3, 'watch a movie');
+
+saturday.forEach((value, key) => {
+  if (key === 12) {
+    console.log("It's time for", value);
+  }
+});
